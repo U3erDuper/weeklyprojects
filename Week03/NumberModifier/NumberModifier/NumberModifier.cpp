@@ -6,7 +6,7 @@ using namespace std;
 int main()
 { //test
 	string userName;
-	float num1 = 2;
+	float num1 = 3;
 	float num2 = 2;
 	short proof1;
 	short proof2;
