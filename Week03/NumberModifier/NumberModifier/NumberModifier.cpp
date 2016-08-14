@@ -7,7 +7,7 @@ int main()
 { //test
 	string userName;
 	float num1 = 3;
-	float num2 = 2;
+	float num2 = 4;
 	short proof1;
 	short proof2;
 	char op1 = '+';
