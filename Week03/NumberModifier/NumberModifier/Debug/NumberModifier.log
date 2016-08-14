@@ -1,0 +1,6 @@
+﻿  NumberModifier.cpp
+c:\users\rabio\documents\monash\c++\week03\numbermodifier\numbermodifier\numbermodifier.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\rabio\documents\monash\c++\week03\numbermodifier\numbermodifier\numbermodifier.cpp(62): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+c:\users\rabio\documents\monash\c++\week03\numbermodifier\numbermodifier\numbermodifier.cpp(87): warning C4244: '=': conversion from 'float' to 'short', possible loss of data
+  NumberModifier.vcxproj -> C:\Users\rabio\Documents\Monash\C++\Week03\NumberModifier\Debug\NumberModifier.exe
+  NumberModifier.vcxproj -> C:\Users\rabio\Documents\Monash\C++\Week03\NumberModifier\Debug\NumberModifier.pdb (Partial PDB)
