@@ -1,0 +1,9 @@
+﻿  Week5.cpp
+c:\users\yann toole\documents\monash\c++\week5\week5\week5.cpp(86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\yann toole\documents\monash\c++\week5\week5\week5.cpp(86): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\yann toole\documents\monash\c++\week5\week5\week5.cpp(90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\yann toole\documents\monash\c++\week5\week5\week5.cpp(90): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\yann toole\documents\monash\c++\week5\week5\week5.cpp(94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\yann toole\documents\monash\c++\week5\week5\week5.cpp(94): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Week5.vcxproj -> C:\Users\Yann Toole\Documents\Monash\C++\Week5\Debug\Week5.exe
+  Week5.vcxproj -> C:\Users\Yann Toole\Documents\Monash\C++\Week5\Debug\Week5.pdb (Full PDB)
